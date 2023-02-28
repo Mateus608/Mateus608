@@ -1,18 +1,17 @@
-<div align="center">
+
+  <div align="center">
+          
   <h1>Olá 👋 eu sou o Mateus Oliveira Milane, apaixonado por programação e tecnologia!</h1>
-  <ul>
-    💻 À procura da primeira expêriencia profissional no mundo da programação<br>
-    🤖 Tecnologia instiga minha curiosidade<br>
-    🎓 Cursando ADS na Fatec
-  </ul>
+          
   </div>
 
 <div align="center">
   <a href="https://github.com/Mateus608">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateus608&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus608&layout=compact&langs_count=7&theme=dark"/>
-</div>
- 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateus608&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus608&layout=compact&langs_count=7&theme=dark"/>
+</div> 
+  
+  
   ####
   
   <div align="center"> 
@@ -22,6 +21,18 @@
   
 </div>
 
+<div align="center">
+    
+<h2>Sobre mim 😎</h2><br>
+  <ul>
+  ● 💻 À procura da primeira expêriencia profissional no mundo da programação<br>
+    <p></p>
+  ● 🤖 Tecnologia instiga minha curiosidade<br>
+    <p></p>
+  ● 🎓 Cursando ADS na Fatec<br>
+  </ul>
+</div>
+  
 ##  
 
 <div align="center" style="display: inline_block"><br>
