@@ -1,7 +1,7 @@
 
   <div align="center">
           
-  <h1>Olá 👋 eu sou o Mateus Oliveira Milane, apaixonado por programação e tecnologia!</h1>
+  <h2>Olá 👋 eu sou o Mateus Oliveira Milane, apaixonado por programação e tecnologia!</h2>
           
   </div>
 
@@ -12,14 +12,9 @@
 </div> 
   
   
-  ####
   
-  <div align="center"> 
-  <a href="https://instagram.com/mateus_omil5" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:mateus.milane555@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mateus-oliveira-milane/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-</div>
+
 
 <div align="center">
     
@@ -31,6 +26,15 @@
     <p></p>
   ● 🎓 Cursando ADS na Fatec<br>
   </ul>
+</div>
+  
+  ####
+  
+  <div align="center"> 
+  <a href="https://instagram.com/mateus_omil5" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:mateus.milane555@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mateus-oliveira-milane/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 </div>
   
 ##  
