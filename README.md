@@ -1,4 +1,4 @@
-### Olá 👋 eu sou o Mateus Oliveira Milane, apaixonado por programção e tecnologia!
+### Olá 👋 eu sou o Mateus Oliveira Milane, apaixonado por programação e tecnologia!
 
 - 🔭 À procura da primeira expêriencia profissional no mundo da programação
 - 🌱 Cursando ADS na Fatec
