@@ -1,13 +1,14 @@
 ### Olá 👋 eu sou o Mateus Oliveira Milane, apaixonado por programação e tecnologia!
 
-- 🔭 À procura da primeira expêriencia profissional no mundo da programação
-- 🌱 Cursando ADS na Fatec
-- ⚡ Tecnologia instiga minha curiosidade
+- 💻 À procura da primeira expêriencia profissional no mundo da programação
+- 🎓 Cursando ADS na Fatec
+- 🤖 Tecnologia instiga minha curiosidade
 
-![Mateus Milane GitHub stats](https://github-readme-stats.vercel.app/api?username=mateus608&show_icons=true&theme=dark)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateus608&hide_progress=true&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/Mateus608">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateus608&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus608&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
