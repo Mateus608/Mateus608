@@ -1,8 +1,8 @@
 ### Olá 👋, eu sou o Mateus Oliveira Milane
 
-- 🔭 À procura de minha primeira expêriencia no mercado da programação
+- 🔭 À procura da primeira expêriencia no mercado da programação
 - 🌱 Cursando ADS na Fatec
-- ⚡ Curiosidade constande sobre tecnologia
+- ⚡ Tecnologia instiga minha curiosidade
 
 ![Mateus Milane GitHub stats](https://github-readme-stats.vercel.app/api?username=mateus608&show_icons=true&theme=dark)
 
