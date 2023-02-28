@@ -1,6 +1,6 @@
 ### Olá 👋, eu sou o Mateus Oliveira Milane
 
-- 🔭 À procura da primeira expêriencia no mercado da programação
+- 🔭 À procura da primeira expêriencia profissional no mundo da programação
 - 🌱 Cursando ADS na Fatec
 - ⚡ Tecnologia instiga minha curiosidade
 
