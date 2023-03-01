@@ -20,7 +20,7 @@
     
 <h2>Sobre mim 😎</h2><br>
   <ul>
-  ● 💻 À procura da primeira expêriencia profissional no mundo da programação<br>
+  ● 💼 À procura da primeira expêriencia profissional no mundo da programação<br>
     <p></p>
   ● 🤖 Tecnologia instiga minha curiosidade<br>
     <p></p>
@@ -39,18 +39,49 @@
   
 ##  
 
-<div align="center" style="display: inline_block"><br>
+<div align="center" style="display: inline_block">
+  
+#### 👩‍💻 Languages
+  <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  </div>
+  
+  ###
+  
+#### 🚀 Frameworks & Library
+  <div>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  </div>
+  
+  ###
+  
+#### 💻 OS
+  <div>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  </div>
+  
+  ###
+  
+#### ⚡ Database
+  <div>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>  
+  </div>
+  
+  ###
+  
+  #### 🖍️ Design
+  <div>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  </div>
 
 </div>
   
-
+##
+  
 <div align="center">  
   
 ![snake gif](https://github.com/Mateus608/Mateus608/blob/output/github-contribution-grid-snake.svg)
