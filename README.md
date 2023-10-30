@@ -24,7 +24,7 @@
     <p></p>
   ● 🤖 Tecnologia instiga minha curiosidade<br>
     <p></p>
-  ● 🎓 Cursando ADS na Fatec<br>
+  ● 🎓 Cursando Ciência da Computação<br>
   </ul>
 </div>
   
